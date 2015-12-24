@@ -1,0 +1,28 @@
+name: firm
+favicon: null
+layout_spectrum: 0.6273915525525808
+typography_spectrum: 0.23492268822155893
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6681464670691639
+  lightness: 0.9255292864982039
+  saturation: 0.24705651844851673
+  rhythmicContrast: 0.6950537364464253
+purpose: []
