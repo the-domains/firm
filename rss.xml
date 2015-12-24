@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[firm]]></title>
         <description><![CDATA[firm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/firm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 20:15:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 20:19:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/firm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/912a04bd-fb43-4f3f-befb-4b98ba4ea235.jpg">]]></description>
-            <link>undefinede98360f1-5440-43c5-aad3-86eaef81a667/index.html</link>
+            <title><![CDATA[Kassinove & Raskin LLP]]></title>
+            <description><![CDATA[<article><h1>Kassinove & Raskin LLP</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/912a04bd-fb43-4f3f-befb-4b98ba4ea235.jpg"></article>]]></description>
+            <link>https://thegrid.ai/firm/e98360f1-5440-43c5-aad3-86eaef81a667/index.html</link>
             <guid isPermaLink="false">e98360f1-5440-43c5-aad3-86eaef81a667</guid>
-            <pubDate>Thu, 24 Dec 2015 20:15:10 GMT</pubDate>
+            <pubDate>Thu, 24 Dec 2015 20:19:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
